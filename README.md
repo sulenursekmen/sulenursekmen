@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sulenursekmen
 - 👀 I’m interested in mobile application
-- 🌱 I’m currently learning Flutter,Java
+- 🌱 I’m currently learning React
 - 📫 How to reach me sulenursekmenn@gmail.com
 
 ## 🌐 Socials:
