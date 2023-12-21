@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Şule Nur Sekmen</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+- 🔭 I’m currently working on **React**
+
+- 📫 How to reach me **sulenursekmenn@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/p_alternans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p_alternans" height="30" width="40" /></a>
