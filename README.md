@@ -7,6 +7,8 @@
 
 <img align="center" src="https://github.com/sulenursekmen/sulenursekmen/raw/master/assets/109442063/bda71341-0a8f-462a-9abf-c798fb00c0d2.gif" alt="giphy" height="200" width="200" />
 
+![cat-coding](https://github.com/sulenursekmen/sulenursekmen/assets/109442063/7329aba7-36c8-4a77-979d-5e3f281e0c26)
+
 
 <h3 align="center">Connect with me:</h3>
 
