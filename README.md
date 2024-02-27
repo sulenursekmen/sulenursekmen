@@ -12,5 +12,5 @@
 <a href="https://medium.com/@sulenursekmenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sulenursekmenn" height="30" width="40" /></a>
 </p>
 
+<div align="right" alt="giphy" height="200" width="200" >![giphy](https://github.com/sulenursekmen/sulenursekmen/assets/109442063/bda71341-0a8f-462a-9abf-c798fb00c0d2) </div>
 
-![giphy](https://github.com/sulenursekmen/sulenursekmen/assets/109442063/bda71341-0a8f-462a-9abf-c798fb00c0d2)
