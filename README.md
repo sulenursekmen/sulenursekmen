@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Şule Nur Sekmen</h1>
-<h3 align="center">A fullstack developer from Turkiye</h3>
+<h1 align="center">👩‍💻 Sule Nur Sekmen </h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
+</p>
 
 - 🔭 I’m currently working on **React** , **.Net**
 
